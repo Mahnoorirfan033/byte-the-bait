@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "ByteTheBait",
+    "slug": "ByteTheBait",
+    "scheme": "bytethebait",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#d1dbdb",
+        "foregroundImage": "./assets/images/logo.png"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/logo.png"
+    },
+    "plugins": [
+      "expo-web-browser"
+    ]
+  }
+}

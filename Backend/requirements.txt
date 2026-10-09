@@ -1,0 +1,17 @@
+fastapi[standard]
+uvicorn
+pydantic
+youtube-transcript-api
+postgrest
+supabase<2.20
+pandas
+openpyxl
+joblib
+yt-dlp
+faster-whisper
+easyocr
+torch
+opencv-python-headless
+numpy
+
+# System dependency: install FFmpeg and ensure it is on PATH (required for yt-dlp audio extract).

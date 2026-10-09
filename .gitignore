@@ -1,0 +1,38 @@
+# Compressed archives & binaries
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# Databases & local logs
+*.db
+*.sqlite3
+*.xlsx
+*.csv
+*.log
+
+# Machine learning models & heavy binaries
+*.pkl
+*.pt
+*.onnx
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.vtt
+cookies*.txt
+
+# Node / React Native / Expo
+node_modules/
+.next/
+.expo/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
